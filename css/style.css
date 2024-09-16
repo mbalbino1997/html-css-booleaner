@@ -3,9 +3,14 @@ header {
     background-size: auto 150px;
     background-repeat: repeat-x;
     background-color: rgb(77, 160, 254);
-    
+    height: 100px;
+    position:relative;
 }
 
-.immagine {
-    width: 400;
+header img {
+    width: 250px;
+    position: absolute;
+    bottom:10px;
+    left:0;
+    
 }
