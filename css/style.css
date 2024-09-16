@@ -14,3 +14,47 @@ header img {
     left:0;
     
 }
+
+.titolo {
+    font-size:70px;
+    
+}
+.underheader {
+    font-size: 30px;
+}
+span {
+    
+    color: rgba(0,0,0, 0.5);
+}
+strong {
+    
+    color:rgb(32, 167, 221);
+}
+
+#data {
+    font-size: 20px;
+}
+
+menu {
+    
+    padding: 0;
+}
+menu div {
+    width: max-content;
+}
+td {
+    width: 1200px;
+    background-color: rgb(25, 122, 122);
+    
+
+}
+th {
+    background-color: rgb(77, 160, 254);
+    color: white;
+}
+
+
+
+
+
+
