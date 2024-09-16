@@ -1,0 +1,11 @@
+header {
+    background-image: url('../img/pattern.png');
+    background-size: auto 150px;
+    background-repeat: repeat-x;
+    background-color: rgb(77, 160, 254);
+    
+}
+
+.immagine {
+    width: 400;
+}
