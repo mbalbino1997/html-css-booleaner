@@ -39,9 +39,11 @@ strong {
     font-size: 20px;
 }
 
-menu {
+menu,
+.titolo,
+.underheader{
     
-    padding: 0;
+    padding: 0 32px;
 }
 menu div {
     width: 100%;
