@@ -44,14 +44,12 @@ menu {
     padding: 0;
 }
 menu div {
-    width: max-content;
+    width: 100%;
 }
-td {
-    width: 1200px;
-    height:fit-content;
+
     
 
-}
+
 th {
     text-align: left;
     background-color: rgb(77, 189, 254);
@@ -64,6 +62,7 @@ th {
 
 }
 table {
+    border-collapse:collapse;
     width: 100%;
     font-weight: bold;
 }
